@@ -6,16 +6,4 @@
     <content><![CDATA[<p>这是第一篇博客。</p>
 ]]></content>
   </entry>
-  <entry>
-    <title>使用hexo和github建立网站</title>
-    <url>/2024/07/30/%E4%BD%BF%E7%94%A8hexo%E5%92%8Cgithub%E5%BB%BA%E7%AB%8B%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>目标：建立一个在线的网站</p>
-]]></content>
-      <categories>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>创建网站</tag>
-      </tags>
-  </entry>
 </search>
