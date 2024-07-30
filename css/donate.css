@@ -175,6 +175,17 @@
   transform: rotatez(15deg);
 }
 
+#donate #bilibili {
+  width: 24px;
+  height: 24px;
+  left: calc(50% + 135px);
+  top: calc(50% - 30px);
+  background: no-repeat center center url(../img/bilibili.svg);
+  background-size: contain;
+  opacity: 0.3;
+  transform: rotatez(15deg);
+}
+
 #donate #ps {
   color: red;
   text-align: center;
