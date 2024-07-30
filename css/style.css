@@ -1655,7 +1655,7 @@ table tr:nth-child(2n) {
   background: #eee;
 }
 
-.article-share-element, .article-share-qrcode, .article-share-weibo, .article-share-facebook, .article-share-twitter {
+.article-share-element, .article-share-qrcode, .article-share-weibo, .article-share-facebook, .article-share-bilibili, .article-share-twitter {
   width: 50px;
   height: 36px;
   display: block;
@@ -1664,7 +1664,7 @@ table tr:nth-child(2n) {
   color: #999;
   text-shadow: 0 1px #fff;
 }
-.article-share-element:before, .article-share-qrcode:before, .article-share-weibo:before, .article-share-facebook:before, .article-share-twitter:before {
+.article-share-element:before, .article-share-qrcode:before, .article-share-weibo:before, .article-share-facebook:before, .article-share-bilibili:before, .article-share-twitter:before {
   font-size: 20px;
   font-family: "FontAwesome";
   width: 20px;
@@ -1676,7 +1676,7 @@ table tr:nth-child(2n) {
   margin-left: -10px;
   text-align: center;
 }
-.article-share-element:hover, .article-share-qrcode:hover, .article-share-weibo:hover, .article-share-facebook:hover, .article-share-twitter:hover {
+.article-share-element:hover, .article-share-qrcode:hover, .article-share-weibo:hover, .article-share-facebook:hover, .article-share-bilibili:hover, .article-share-twitter:hover {
   color: #fff;
 }
 
@@ -1684,6 +1684,13 @@ table tr:nth-child(2n) {
   content: "\f099";
 }
 .article-share-twitter:hover {
+  background: #00aced;
+}
+
+.article-share-bilibili:before {
+  content: "\f099";
+}
+.article-share-bilibili:hover {
   background: #00aced;
 }
 
